@@ -17,6 +17,13 @@
       "CratesRatio": [
         1
       ]
+    },
+    {
+      "Type": 2,
+      "DropChance": 0,
+      "CratesRatio": [
+        0
+      ]
     }
   ],
   "MobDrops": [
@@ -4933,6 +4940,46 @@
       "Taros": 140,
       "FM": 125,
       "Boosts": 0
+    },
+    {
+      "DropType": 723,
+      "CrateIDs": [
+        1230
+      ],
+      "DropChance": 1,
+      "Taros": 0,
+      "FM": 0,
+      "Boosts": 0
+    },
+    {
+      "DropType": 724,
+      "CrateIDs": [
+        0
+      ],
+      "DropChance": 2,
+      "Taros": 5,
+      "FM": 0,
+      "Boosts": 0
+    },
+    {
+      "DropType": 727,
+      "CrateIDs": [
+        1239
+      ],
+      "DropChance": 1,
+      "Taros": 100,
+      "FM": 0,
+      "Boosts": 0
+    },
+    {
+      "DropType": 728,
+      "CrateIDs": [
+        1240
+      ],
+      "DropChance": 1,
+      "Taros": 100,
+      "FM": 0,
+      "Boosts": 0
     }
   ],
   "RarityRatios": [
@@ -5028,6 +5075,15 @@
         25,
         25,
         25
+      ]
+    },
+    {
+      "Type": 11,
+      "Ratio": [
+        0,
+        0,
+        65,
+        35
       ]
     }
   ],
@@ -11130,67 +11186,46 @@
       "RarityRatio": 6
     },
     {
-      "Id": 1127,
-      "ItemSets": [
-        268
-      ],
-      "RarityRatio": 6
-    },
-    {
-      "Id": 1128,
-      "ItemSets": [
-        269
-      ],
-      "RarityRatio": 6
-    },
-    {
-      "Id": 1129,
-      "ItemSets": [
-        270
-      ],
-      "RarityRatio": 6
-    },
-    {
-      "Id": 1130,
-      "ItemSets": [
-        271
-      ],
-      "RarityRatio": 6
-    },
-    {
       "Id": 1187,
       "ItemSets": [
         283
       ],
-      "RarityRatio": 0
+      "RarityRatio": 1
     },
     {
-      "Id": 1188,
+      "Id": 1230,
       "ItemSets": [
         284
       ],
-      "RarityRatio": 6
+      "RarityRatio": 4
     },
     {
-      "Id": 1189,
+      "Id": 1239,
       "ItemSets": [
         285
       ],
-      "RarityRatio": 6
+      "RarityRatio": 4
     },
     {
-      "Id": 1190,
+      "Id": 1240,
       "ItemSets": [
         286
       ],
-      "RarityRatio": 6
+      "RarityRatio": 4
     },
     {
-      "Id": 1191,
+      "Id": 1221,
       "ItemSets": [
         287
       ],
-      "RarityRatio": 6
+      "RarityRatio": 11
+    },
+    {
+      "Id": 1220,
+      "ItemSets": [
+        288
+      ],
+      "RarityRatio": 11
     }
   ],
   "Items": [
@@ -27299,85 +27334,13 @@
       "Id": 110
     },
     {
-      "ItemSet": 268,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 110
-    },
-    {
-      "ItemSet": 269,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 110
-    },
-    {
-      "ItemSet": 270,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 110
-    },
-    {
-      "ItemSet": 271,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 110
-    },
-    {
       "ItemSet": 267,
       "Rarity": 4,
       "Type": 4,
       "Id": 111
     },
     {
-      "ItemSet": 268,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 111
-    },
-    {
-      "ItemSet": 269,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 111
-    },
-    {
-      "ItemSet": 270,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 111
-    },
-    {
-      "ItemSet": 271,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 111
-    },
-    {
       "ItemSet": 267,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 116
-    },
-    {
-      "ItemSet": 268,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 116
-    },
-    {
-      "ItemSet": 269,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 116
-    },
-    {
-      "ItemSet": 270,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 116
-    },
-    {
-      "ItemSet": 271,
       "Rarity": 4,
       "Type": 4,
       "Id": 116
@@ -27492,111 +27455,131 @@
     },
     {
       "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 1,
-      "Id": 451
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 2,
-      "Id": 434
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 3,
-      "Id": 441
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 1,
-      "Id": 459
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 1,
-      "Id": 462
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 1,
-      "Id": 465
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 2,
-      "Id": 442
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 2,
-      "Id": 445
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 2,
-      "Id": 449
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 3,
-      "Id": 449
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 3,
-      "Id": 452
-    },
-    {
-      "ItemSet": 284,
-      "Rarity": 4,
-      "Type": 3,
-      "Id": 456
+      "Rarity": 1,
+      "Type": 0,
+      "Id": 43
     },
     {
       "ItemSet": 285,
-      "Rarity": 4,
-      "Type": 4,
-      "Id": 132
-    },
-    {
-      "ItemSet": 285,
-      "Rarity": 4,
-      "Type": 6,
-      "Id": 64
-    },
-    {
-      "ItemSet": 285,
-      "Rarity": 4,
-      "Type": 1,
-      "Id": 488
-    },
-    {
-      "ItemSet": 285,
-      "Rarity": 4,
-      "Type": 2,
-      "Id": 471
-    },
-    {
-      "ItemSet": 285,
-      "Rarity": 4,
-      "Type": 3,
-      "Id": 478
+      "Rarity": 1,
+      "Type": 5,
+      "Id": 24
     },
     {
       "ItemSet": 286,
+      "Rarity": 1,
+      "Type": 6,
+      "Id": 23
+    },
+    {
+      "ItemSet": 287,
+      "Rarity": 3,
+      "Type": 6,
+      "Id": 70
+    },
+    {
+      "ItemSet": 287,
+      "Rarity": 4,
+      "Type": 6,
+      "Id": 44
+    },
+    {
+      "ItemSet": 288,
+      "Rarity": 3,
+      "Type": 5,
+      "Id": 62
+    },
+    {
+      "ItemSet": 288,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 193
+    },
+    {
+      "ItemSet": 288,
       "Rarity": 4,
       "Type": 4,
-      "Id": 130
+      "Id": 186
+    },
+    {
+      "ItemSet": 288,
+      "Rarity": 4,
+      "Type": 4,
+      "Id": 229
+    },
+    {
+      "ItemSet": 288,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 198
+    },
+    {
+      "ItemSet": 288,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 204
+    },
+    {
+      "ItemSet": 288,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 205
+    },
+    {
+      "ItemSet": 288,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 200
+    },
+    {
+      "ItemSet": 288,
+      "Rarity": 4,
+      "Type": 4,
+      "Id": 230
+    },
+    {
+      "ItemSet": 288,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 231
+    }
+  ],
+  "NanoCapsules": [
+    {
+      "Crate": 1232,
+      "Nano": 37
+    },
+    {
+      "Crate": 1233,
+      "Nano": 38
+    },
+    {
+      "Crate": 1234,
+      "Nano": 39
+    },
+    {
+      "Crate": 1245,
+      "Nano": 43
+    },
+    {
+      "Crate": 1246,
+      "Nano": 51
+    },
+    {
+      "Crate": 1247,
+      "Nano": 50
+    },
+    {
+      "Crate": 1257,
+      "Nano": 54
+    },
+    {
+      "Crate": 1258,
+      "Nano": 55
+    },
+    {
+      "Crate": 1259,
+      "Nano": 56
     }
   ],
   "Racing": [
@@ -28175,6 +28158,753 @@
         0
       ],
       "TimeLimit": 510
+    }
+  ],
+  "CodeItems": [
+    {
+      "Code": "ffcshnitzelbooms",
+      "Type": 0,
+      "Id": 702
+    },
+    {
+      "Code": "ffcnaturalskills",
+      "Type": 1,
+      "Id": 525
+    },
+    {
+      "Code": "ffcwhatevers2009",
+      "Type": 1,
+      "Id": 523
+    },
+    {
+      "Code": "ffcwomanlycharms",
+      "Type": 1,
+      "Id": 522
+    },
+    {
+      "Code": "ffcteammarceline",
+      "Type": 1,
+      "Id": 536
+    },
+    {
+      "Code": "ffcchocolatebody",
+      "Type": 1,
+      "Id": 539
+    },
+    {
+      "Code": "ffcdanceimpaired",
+      "Type": 1,
+      "Id": 532
+    },
+    {
+      "Code": "ffcgwensoldcrush",
+      "Type": 1,
+      "Id": 533
+    },
+    {
+      "Code": "ffcmamaknowsbest",
+      "Type": 1,
+      "Id": 529
+    },
+    {
+      "Code": "ffceatingmachine",
+      "Type": 1,
+      "Id": 518
+    },
+    {
+      "Code": "ffcgreenhairpunk",
+      "Type": 1,
+      "Id": 530
+    },
+    {
+      "Code": "ffcmysteryschool",
+      "Type": 1,
+      "Id": 591
+    },
+    {
+      "Code": "ffc496fadd823aec",
+      "Type": 4,
+      "Id": 107
+    },
+    {
+      "Code": "ffccryptidhunter",
+      "Type": 4,
+      "Id": 110
+    },
+    {
+      "Code": "ffcforestphantom",
+      "Type": 4,
+      "Id": 118
+    },
+    {
+      "Code": "ffcfourarmspower",
+      "Type": 4,
+      "Id": 109
+    },
+    {
+      "Code": "ffcben10dinosaur",
+      "Type": 4,
+      "Id": 112
+    },
+    {
+      "Code": "ffcheroaliengoop",
+      "Type": 4,
+      "Id": 115
+    },
+    {
+      "Code": "ffcheroreporter",
+      "Type": 4,
+      "Id": 120
+    },
+    {
+      "Code": "ffcloseencounter",
+      "Type": 4,
+      "Id": 126
+    },
+    {
+      "Code": "ffcbrotherladies",
+      "Type": 4,
+      "Id": 117
+    },
+    {
+      "Code": "ffcohnoyoudidnot",
+      "Type": 4,
+      "Id": 127
+    },
+    {
+      "Code": "ffcsandyandsunny",
+      "Type": 4,
+      "Id": 128
+    },
+    {
+      "Code": "ffchowdypardners",
+      "Type": 4,
+      "Id": 129
+    },
+    {
+      "Code": "ffcdirectorscuts",
+      "Type": 4,
+      "Id": 130
+    },
+    {
+      "Code": "ffcimpendingdoom",
+      "Type": 4,
+      "Id": 131
+    },
+    {
+      "Code": "ffcinthetrenches",
+      "Type": 4,
+      "Id": 132
+    },
+    {
+      "Code": "ffcmotionpicture",
+      "Type": 4,
+      "Id": 133
+    },
+    {
+      "Code": "ffctheatricality",
+      "Type": 4,
+      "Id": 141
+    },
+    {
+      "Code": "ffcthezerotohero",
+      "Type": 4,
+      "Id": 134
+    },
+    {
+      "Code": "ffcepicspectacle",
+      "Type": 4,
+      "Id": 135
+    },
+    {
+      "Code": "ffcenchantedmyth",
+      "Type": 4,
+      "Id": 136
+    },
+    {
+      "Code": "ffcarachnidberet",
+      "Type": 4,
+      "Id": 123
+    },
+    {
+      "Code": "ffcmartialrtist",
+      "Type": 4,
+      "Id": 137
+    },
+    {
+      "Code": "ffcranberrysauce",
+      "Type": 4,
+      "Id": 171
+    },
+    {
+      "Code": "ffcfeatherfriend",
+      "Type": 4,
+      "Id": 138
+    },
+    {
+      "Code": "ffceremonialgear",
+      "Type": 4,
+      "Id": 140
+    },
+    {
+      "Code": "ffcicebreathhero",
+      "Type": 4,
+      "Id": 172
+    },
+    {
+      "Code": "ffcxmarksthespot",
+      "Type": 4,
+      "Id": 139
+    },
+    {
+      "Code": "ffcimaginarypals",
+      "Type": 4,
+      "Id": 173
+    },
+    {
+      "Code": "ffcbighugefinish",
+      "Type": 4,
+      "Id": 142
+    },
+    {
+      "Code": "ffcandlebirthday",
+      "Type": 4,
+      "Id": 185
+    },
+    {
+      "Code": "ffcexterminating",
+      "Type": 4,
+      "Id": 189
+    },
+    {
+      "Code": "ffccoolsaintphat",
+      "Type": 4,
+      "Id": 191
+    },
+    {
+      "Code": "ffconeawesomehat",
+      "Type": 4,
+      "Id": 203
+    },
+    {
+      "Code": "ffcajokestershat",
+      "Type": 4,
+      "Id": 195
+    },
+    {
+      "Code": "ffcupgradeforyou",
+      "Type": 4,
+      "Id": 193
+    },
+    {
+      "Code": "ffcbuzzingaround",
+      "Type": 4,
+      "Id": 186
+    },
+    {
+      "Code": "ffcmyjumboshrimp",
+      "Type": 4,
+      "Id": 204
+    },
+    {
+      "Code": "ffcatotalhothead",
+      "Type": 4,
+      "Id": 205
+    },
+    {
+      "Code": "ffcthehammerhead",
+      "Type": 4,
+      "Id": 198
+    },
+    {
+      "Code": "ffcredwhitenblue",
+      "Type": 4,
+      "Id": 210
+    },
+    {
+      "Code": "ffckillervampire",
+      "Type": 4,
+      "Id": 219
+    },
+    {
+      "Code": "ffcbigbluehelmet",
+      "Type": 4,
+      "Id": 222
+    },
+    {
+      "Code": "ffcbighouseblues",
+      "Type": 5,
+      "Id": 47
+    },
+    {
+      "Code": "ffcomedicsurgery",
+      "Type": 5,
+      "Id": 48
+    },
+    {
+      "Code": "ffcscarychainsaw",
+      "Type": 5,
+      "Id": 49
+    },
+    {
+      "Code": "ffconelastbigjob",
+      "Type": 5,
+      "Id": 50
+    },
+    {
+      "Code": "ffcmajorintrigue",
+      "Type": 5,
+      "Id": 51
+    },
+    {
+      "Code": "ffcrimethrillers",
+      "Type": 5,
+      "Id": 52
+    },
+    {
+      "Code": "ffcdrumsanddrama",
+      "Type": 5,
+      "Id": 53
+    },
+    {
+      "Code": "ffcbottomlesspit",
+      "Type": 5,
+      "Id": 62
+    },
+    {
+      "Code": "batpackfeb09",
+      "Type": 6,
+      "Id": 50
+    },
+    {
+      "Code": "ffchillsnthrills",
+      "Type": 6,
+      "Id": 54
+    },
+    {
+      "Code": "ffccoldalienwings",
+      "Type": 6,
+      "Id": 58
+    },
+    {
+      "Code": "ffcawesomepowers",
+      "Type": 6,
+      "Id": 55
+    },
+    {
+      "Code": "ffcinsectoidhero",
+      "Type": 6,
+      "Id": 53
+    },
+    {
+      "Code": "ffcintothecosmos",
+      "Type": 6,
+      "Id": 56
+    },
+    {
+      "Code": "ffcthewebcrawler",
+      "Type": 6,
+      "Id": 73
+    },
+    {
+      "Code": "ffcfreezerflames",
+      "Type": 6,
+      "Id": 76
+    },
+    {
+      "Code": "ffcmrsmartypants",
+      "Type": 6,
+      "Id": 77
+    },
+    {
+      "Code": "ffcjellyfishzaps",
+      "Type": 6,
+      "Id": 78
+    },
+    {
+      "Code": "ffclildancingguy",
+      "Type": 6,
+      "Id": 85
+    },
+    {
+      "Code": "ffcgetfreakedout",
+      "Type": 6,
+      "Id": 86
+    },
+    {
+      "Code": "ffclggreenertail",
+      "Type": 6,
+      "Id": 91
+    },
+    {
+      "Code": "ffctake1foraspin",
+      "Type": 10,
+      "Id": 13
+    },
+    {
+      "Code": "ffcfreevehicle4u",
+      "Type": 10,
+      "Id": 14
+    },
+    {
+      "Code": "ffcknishmaszooms",
+      "Type": 10,
+      "Id": 17
+    },
+    {
+      "Code": "ffcflyinginstyle",
+      "Type": 10,
+      "Id": 33
+    },
+    {
+      "Code": "ffcgrabgreentogo",
+      "Type": 10,
+      "Id": 75
+    },
+    {
+      "Code": "ffcthekingofcool",
+      "Type": 10,
+      "Id": 66
+    },
+    {
+      "Code": "ffcstealthyninja",
+      "Type": 10,
+      "Id": 35
+    },
+    {
+      "Code": "ffcrevtheengines",
+      "Type": 10,
+      "Id": 36
+    },
+    {
+      "Code": "ffcadventuretime",
+      "Type": 1,
+      "Id": 519
+    },
+    {
+      "Code": "ffcadventuretime",
+      "Type": 1,
+      "Id": 520
+    },
+    {
+      "Code": "ffcadventuretime",
+      "Type": 1,
+      "Id": 538
+    },
+    {
+      "Code": "ffcgotteamspirit",
+      "Type": 1,
+      "Id": 526
+    },
+    {
+      "Code": "ffcgotteamspirit",
+      "Type": 1,
+      "Id": 527
+    },
+    {
+      "Code": "ffcgotteamspirit",
+      "Type": 1,
+      "Id": 528
+    },
+    {
+      "Code": "ffchighflyingfun",
+      "Type": 6,
+      "Id": 83
+    },
+    {
+      "Code": "ffcnoblewarriors",
+      "Type": 5,
+      "Id": 66
+    },
+    {
+      "Code": "ffchalfkaijuking",
+      "Type": 6,
+      "Id": 92
+    },
+    {
+      "Code": "ffcultimatemagik",
+      "Type": 6,
+      "Id": 97
+    },
+    {
+      "Code": "ffclightningfast",
+      "Type": 4,
+      "Id": 232
+    },
+    {
+      "Code": "ffclightningfast",
+      "Type": 2,
+      "Id": 507
+    },
+    {
+      "Code": "ffclightningfast",
+      "Type": 3,
+      "Id": 514
+    },
+    {
+      "Code": "ffclightningfast",
+      "Type": 1,
+      "Id": 599
+    },
+    {
+      "Code": "ffcgroundpounder",
+      "Type": 2,
+      "Id": 501
+    },
+    {
+      "Code": "ffcgroundpounder",
+      "Type": 3,
+      "Id": 508
+    },
+    {
+      "Code": "ffcgroundpounder",
+      "Type": 1,
+      "Id": 593
+    },
+    {
+      "Code": "ffcgroundpounder",
+      "Type": 6,
+      "Id": 88
+    },
+    {
+      "Code": "ffcsquishthemall",
+      "Type": 4,
+      "Id": 250
+    },
+    {
+      "Code": "ffcsquishthemall",
+      "Type": 2,
+      "Id": 527
+    },
+    {
+      "Code": "ffcsquishthemall",
+      "Type": 3,
+      "Id": 534
+    },
+    {
+      "Code": "ffcsquishthemall",
+      "Type": 1,
+      "Id": 621
+    },
+    {
+      "Code": "ffcspecialthanks",
+      "Type": 4,
+      "Id": 184
+    },
+    {
+      "Code": "ffcspecialthanks",
+      "Type": 2,
+      "Id": 481
+    },
+    {
+      "Code": "ffcspecialthanks",
+      "Type": 3,
+      "Id": 488
+    },
+    {
+      "Code": "ffcspecialthanks",
+      "Type": 1,
+      "Id": 498
+    },
+    {
+      "Code": "ffcyaspecialgift",
+      "Type": 2,
+      "Id": 528
+    },
+    {
+      "Code": "ffcyaspecialgift",
+      "Type": 3,
+      "Id": 535
+    },
+    {
+      "Code": "ffcyaspecialgift",
+      "Type": 1,
+      "Id": 622
+    },
+    {
+      "Code": "ffcyaspecialgift",
+      "Type": 4,
+      "Id": 251
+    },
+    {
+      "Code": "ffcsecretinstone",
+      "Type": 2,
+      "Id": 424
+    },
+    {
+      "Code": "ffcsecretinstone",
+      "Type": 3,
+      "Id": 431
+    },
+    {
+      "Code": "ffcsecretinstone",
+      "Type": 1,
+      "Id": 441
+    },
+    {
+      "Code": "ffcdragonsbreath",
+      "Type": 2,
+      "Id": 513
+    },
+    {
+      "Code": "ffcdragonsbreath",
+      "Type": 3,
+      "Id": 520
+    },
+    {
+      "Code": "ffcdragonsbreath",
+      "Type": 1,
+      "Id": 605
+    },
+    {
+      "Code": "ffcnewcropcircle",
+      "Type": 4,
+      "Id": 199
+    },
+    {
+      "Code": "ffcnewcropcircle",
+      "Type": 2,
+      "Id": 511
+    },
+    {
+      "Code": "ffcnewcropcircle",
+      "Type": 3,
+      "Id": 518
+    },
+    {
+      "Code": "ffcnewcropcircle",
+      "Type": 1,
+      "Id": 603
+    },
+    {
+      "Code": "ffcwhiplashsmash",
+      "Type": 6,
+      "Id": 71
+    },
+    {
+      "Code": "ffcwhiplashsmash",
+      "Type": 2,
+      "Id": 508
+    },
+    {
+      "Code": "ffcwhiplashsmash",
+      "Type": 3,
+      "Id": 515
+    },
+    {
+      "Code": "ffcwhiplashsmash",
+      "Type": 1,
+      "Id": 600
+    },
+    {
+      "Code": "ffcmapofinfinity",
+      "Type": 6,
+      "Id": 87
+    },
+    {
+      "Code": "ffcmapofinfinity",
+      "Type": 2,
+      "Id": 500
+    },
+    {
+      "Code": "ffcmapofinfinity",
+      "Type": 3,
+      "Id": 507
+    },
+    {
+      "Code": "ffcmapofinfinity",
+      "Type": 1,
+      "Id": 592
+    },
+    {
+      "Code": "ffcmapofinfinity",
+      "Type": 4,
+      "Id": 224
+    },
+    {
+      "Code": "ffcinfernoarmory",
+      "Type": 2,
+      "Id": 512
+    },
+    {
+      "Code": "ffcinfernoarmory",
+      "Type": 3,
+      "Id": 519
+    },
+    {
+      "Code": "ffcinfernoarmory",
+      "Type": 1,
+      "Id": 604
+    },
+    {
+      "Code": "ffcinfernoarmory",
+      "Type": 4,
+      "Id": 201
+    },
+    {
+      "Code": "ffcinfernoarmory",
+      "Type": 4,
+      "Id": 234
+    },
+    {
+      "Code": "ffcspikedtheball",
+      "Type": 2,
+      "Id": 509
+    },
+    {
+      "Code": "ffcspikedtheball",
+      "Type": 3,
+      "Id": 516
+    },
+    {
+      "Code": "ffcspikedtheball",
+      "Type": 1,
+      "Id": 601
+    },
+    {
+      "Code": "ffcmeanergreener",
+      "Type": 1,
+      "Id": 607
+    },
+    {
+      "Code": "ffcmeanergreener",
+      "Type": 6,
+      "Id": 91
+    },
+    {
+      "Code": "ffcmeanergreener",
+      "Type": 4,
+      "Id": 202
+    },
+    {
+      "Code": "ffcmeanergreener",
+      "Type": 2,
+      "Id": 515
+    },
+    {
+      "Code": "ffcmeanergreener",
+      "Type": 3,
+      "Id": 522
+    },
+    {
+      "Code": "ffcslobberybeast",
+      "Type": 4,
+      "Id": 233
+    },
+    {
+      "Code": "ffcslobberybeast",
+      "Type": 2,
+      "Id": 510
+    },
+    {
+      "Code": "ffcslobberybeast",
+      "Type": 3,
+      "Id": 517
+    },
+    {
+      "Code": "ffcslobberybeast",
+      "Type": 1,
+      "Id": 602
     }
   ]
 }
