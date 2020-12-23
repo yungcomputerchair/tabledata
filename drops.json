@@ -11324,6 +11324,13 @@
         290
       ],
       "RarityRatio": 3
+    },
+    {
+      "Id": 1260,
+      "ItemSets": [
+        291
+      ],
+      "RarityRatio": 11
     }
   ],
   "Items": [
@@ -27754,6 +27761,90 @@
       "Rarity": 2,
       "Type": 6,
       "Id": 81
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 1,
+      "Id": 640
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 1,
+      "Id": 641
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 1,
+      "Id": 642
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 4,
+      "Type": 1,
+      "Id": 643
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 2,
+      "Id": 543
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 2,
+      "Id": 544
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 2,
+      "Id": 545
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 4,
+      "Type": 2,
+      "Id": 546
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 3,
+      "Id": 550
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 3,
+      "Id": 551
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 3,
+      "Id": 552
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 4,
+      "Type": 3,
+      "Id": 553
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 6,
+      "Id": 59
+    },
+    {
+      "ItemSet": 291,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 170
     }
   ],
   "NanoCapsules": [
