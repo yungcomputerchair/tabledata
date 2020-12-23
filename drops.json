@@ -29208,6 +29208,31 @@
       "Code": "ffcslobberybeast",
       "Type": 1,
       "Id": 602
+    },
+    {
+      "Code": "ffcdeathpunchies",
+      "Type": 9,
+      "Id": 1245
+    },
+    {
+      "Code": "ffcmisadventurer",
+      "Type": 9,
+      "Id": 1246
+    },
+    {
+      "Code": "ffcfunnygoldfish",
+      "Type": 9,
+      "Id": 1257
+    },
+    {
+      "Code": "ffcyeeeeeaaaahhh",
+      "Type": 9,
+      "Id": 1258
+    },
+    {
+      "Code": "ffcnerdybutsweet",
+      "Type": 9,
+      "Id": 1259
     }
   ]
 }
