@@ -4980,6 +4980,48 @@
       "Taros": 100,
       "FM": 0,
       "Boosts": 0
+    },
+    {
+      "DropType": 710,
+      "CrateIDs": [
+        40,
+        1205,
+        1206,
+        1207,
+        1208
+      ],
+      "DropChance": 0,
+      "Taros": 37,
+      "FM": 0,
+      "Boosts": 17
+    },
+    {
+      "DropType": 706,
+      "CrateIDs": [
+        85,
+        1197,
+        1198,
+        1199,
+        1200
+      ],
+      "DropChance": 0,
+      "Taros": 48,
+      "FM": 0,
+      "Boosts": 22
+    },
+    {
+      "DropType": 707,
+      "CrateIDs": [
+        85,
+        1197,
+        1198,
+        1199,
+        1200
+      ],
+      "DropChance": 0,
+      "Taros": 120,
+      "FM": 0,
+      "Boosts": 23
     }
   ],
   "RarityRatios": [
@@ -11226,6 +11268,62 @@
         288
       ],
       "RarityRatio": 11
+    },
+    {
+      "Id": 1205,
+      "ItemSets": [
+        289
+      ],
+      "RarityRatio": 0
+    },
+    {
+      "Id": 1206,
+      "ItemSets": [
+        289
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1207,
+      "ItemSets": [
+        289
+      ],
+      "RarityRatio": 2
+    },
+    {
+      "Id": 1208,
+      "ItemSets": [
+        289
+      ],
+      "RarityRatio": 3
+    },
+    {
+      "Id": 1197,
+      "ItemSets": [
+        290
+      ],
+      "RarityRatio": 0
+    },
+    {
+      "Id": 1198,
+      "ItemSets": [
+        290
+      ],
+      "RarityRatio": 1
+    },
+    {
+      "Id": 1199,
+      "ItemSets": [
+        290
+      ],
+      "RarityRatio": 2
+    },
+    {
+      "Id": 1200,
+      "ItemSets": [
+        290
+      ],
+      "RarityRatio": 3
     }
   ],
   "Items": [
@@ -27542,6 +27640,120 @@
       "Rarity": 3,
       "Type": 4,
       "Id": 231
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 3,
+      "Type": 4,
+      "Id": 215
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 2,
+      "Type": 4,
+      "Id": 216
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 2,
+      "Type": 4,
+      "Id": 217
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 3,
+      "Type": 1,
+      "Id": 514
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 2,
+      "Type": 1,
+      "Id": 515
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 2,
+      "Type": 1,
+      "Id": 516
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 3,
+      "Type": 2,
+      "Id": 496
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 2,
+      "Type": 2,
+      "Id": 497
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 2,
+      "Type": 2,
+      "Id": 498
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 3,
+      "Type": 3,
+      "Id": 503
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 2,
+      "Type": 3,
+      "Id": 504
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 2,
+      "Type": 3,
+      "Id": 505
+    },
+    {
+      "ItemSet": 289,
+      "Rarity": 4,
+      "Type": 0,
+      "Id": 701
+    },
+    {
+      "ItemSet": 290,
+      "Rarity": 2,
+      "Type": 4,
+      "Id": 208
+    },
+    {
+      "ItemSet": 290,
+      "Rarity": 3,
+      "Type": 1,
+      "Id": 508
+    },
+    {
+      "ItemSet": 290,
+      "Rarity": 3,
+      "Type": 2,
+      "Id": 490
+    },
+    {
+      "ItemSet": 290,
+      "Rarity": 3,
+      "Type": 3,
+      "Id": 497
+    },
+    {
+      "ItemSet": 290,
+      "Rarity": 4,
+      "Type": 0,
+      "Id": 690
+    },
+    {
+      "ItemSet": 290,
+      "Rarity": 2,
+      "Type": 6,
+      "Id": 81
     }
   ],
   "NanoCapsules": [
