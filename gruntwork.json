@@ -23,7 +23,11 @@
         {
             "iMapNum": 666,
             "iNPCID": 1413
-        },
+		},
+		{
+		    "iMapNum": 666,
+            "iNPCID": 1439
+		},
         {
             "iMapNum": 666,
             "iNPCID": 3631
