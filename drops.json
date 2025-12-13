@@ -6680,59 +6680,59 @@
             "MobDropID": 200
         },
         "567": {
-            "MobID": 525,
-            "MobDropID": 348
-        },
-        "568": {
             "MobID": 527,
             "MobDropID": 204
         },
-        "569": {
+        "568": {
             "MobID": 528,
             "MobDropID": 51
         },
-        "570": {
+        "569": {
             "MobID": 529,
             "MobDropID": 204
         },
-        "571": {
+        "570": {
             "MobID": 556,
             "MobDropID": 67
         },
-        "572": {
+        "571": {
             "MobID": 557,
             "MobDropID": 67
         },
-        "573": {
+        "572": {
             "MobID": 558,
             "MobDropID": 220
         },
-        "574": {
+        "573": {
             "MobID": 560,
             "MobDropID": 71
         },
-        "575": {
+        "574": {
             "MobID": 561,
             "MobDropID": 71
         },
-        "576": {
+        "575": {
             "MobID": 578,
             "MobDropID": 380
         },
-        "577": {
+        "576": {
             "MobID": 580,
             "MobDropID": 236
         },
-        "578": {
+        "577": {
             "MobID": 587,
             "MobDropID": 384
         },
-        "579": {
+        "578": {
             "MobID": 588,
             "MobDropID": 384
         },
-        "580": {
+        "579": {
             "MobID": 1723,
+            "MobDropID": 348
+        },
+        "580": {
+            "MobID": 1726,
             "MobDropID": 348
         },
         "581": {
