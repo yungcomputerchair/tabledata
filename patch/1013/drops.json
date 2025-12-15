@@ -305,20 +305,11 @@
         "0": {
             "!MobDropID": 40
         },
-        "2": {
-            "!MobDropID": 32
-        },
         "6": {
-            "!MobDropID": 16
+            "!MobDropID": 15
         },
         "16": {
             "!MobDropID": 24
-        },
-        "18": {
-            "!MobDropID": 88
-        },
-        "25": {
-            "!MobDropID": 373
         },
         "37": {
             "!MobDropID": 76
@@ -339,17 +330,13 @@
             "!MobDropID": 724
         },
         "133": {
-            "!MobID": 253,
-            "!MobDropID": 18
+            "!MobID": 253
         },
         "143": {
             "!MobDropID": 14
         },
         "241": {
             "!MobDropID": 723
-        },
-        "242": {
-            "!MobDropID": 19
         },
         "243": {
             "!MobDropID": 19
@@ -363,40 +350,15 @@
         "377": {
             "!MobDropID": 187
         },
-        "378": {
-            "!MobDropID": 32
-        },
         "518": {
             "!MobDropID": 14
         },
         "519": {
             "!MobDropID": 18
         },
-        "525": {
-            "!MobDropID": 144
-        },
-        "526": {
-            "!MobDropID": 144
-        },
-        "527": {
-            "!MobDropID": 144
-        },
-        "528": {
-            "!MobDropID": 104
-        },
-        "530": {
-            "!MobDropID": 140
-        },
-        "533": {
-            "!MobDropID": 132
-        },
         "10000": {
             "MobID": 18,
             "MobDropID": 209
-        },
-        "10001": {
-            "MobID": 173,
-            "MobDropID": 222
         },
         "10002": {
             "MobID": 357,
@@ -405,14 +367,6 @@
         "10003": {
             "MobID": 387,
             "MobDropID": 74
-        },
-        "10004": {
-            "MobID": 469,
-            "MobDropID": 15
-        },
-        "10005": {
-            "MobID": 522,
-            "MobDropID": 344
         },
         "10006": {
             "MobID": 3144,
@@ -436,7 +390,7 @@
         },
         "10011": {
             "MobID": 3374,
-            "MobDropID": 58
+            "MobDropID": 59
         },
         "10012": {
             "MobID": 3375,
@@ -468,7 +422,7 @@
         },
         "10019": {
             "MobID": 3434,
-            "MobDropID": 709
+            "MobDropID": 708
         },
         "10020": {
             "MobID": 3435,
@@ -516,7 +470,7 @@
         },
         "10031": {
             "MobID": 3620,
-            "MobDropID": 62
+            "MobDropID": 355
         },
         "10032": {
             "MobID": 3621,
@@ -532,11 +486,11 @@
         },
         "10035": {
             "MobID": 3639,
-            "MobDropID": 0
+            "MobDropID": 191
         },
         "10036": {
             "MobID": 3640,
-            "MobDropID": 0
+            "MobDropID": 40
         },
         "10037": {
             "MobID": 3641,
@@ -544,31 +498,31 @@
         },
         "10038": {
             "MobID": 3643,
-            "MobDropID": 72
+            "MobDropID": 369
         },
         "10039": {
             "MobID": 3652,
-            "MobDropID": 0
+            "MobDropID": 191
         },
         "10040": {
             "MobID": 3676,
-            "MobDropID": 0
+            "MobDropID": 44
         },
         "10041": {
             "MobID": 3677,
-            "MobDropID": 0
+            "MobDropID": 357
         },
         "10042": {
             "MobID": 3679,
-            "MobDropID": 0
+            "MobDropID": 707
         },
         "10043": {
             "MobID": 3747,
-            "MobDropID": 0
+            "MobDropID": 20
         },
         "10044": {
             "MobID": 3748,
-            "MobDropID": 0
+            "MobDropID": 76
         },
         "10045": {
             "MobID": 3749,
