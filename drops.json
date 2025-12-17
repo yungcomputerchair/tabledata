@@ -5,9 +5,9 @@
             "DropChance": 333,
             "DropChanceTotal": 1000,
             "CrateTypeDropWeights": [
+                10,
+                50,
                 25,
-                40,
-                20,
                 10,
                 5
             ]
