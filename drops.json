@@ -3547,7 +3547,7 @@
         "235": {
             "MobDropID": 274,
             "CrateDropChanceID": 0,
-            "CrateDropTypeID": 86,
+            "CrateDropTypeID": 60,
             "MiscDropChanceID": 0,
             "MiscDropTypeID": 72
         },

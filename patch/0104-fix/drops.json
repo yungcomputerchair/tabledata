@@ -1,4 +1,9 @@
 {
+    "MobDrops": {
+        "235": {
+            "!CrateDropTypeID": 86
+        }
+    },
     "Mobs": {
         "427": {
             "!MobDropID": 415
