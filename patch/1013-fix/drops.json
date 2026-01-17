@@ -1,0 +1,44 @@
+{
+    "Mobs": {
+        "10035": {
+            "MobID": 3639,
+            "MobDropID": 191
+        },
+        "10036": {
+            "MobID": 3640,
+            "MobDropID": 40
+        },
+        "10037": {
+            "MobID": 3641,
+            "MobDropID": 40
+        },
+        "10038": {
+            "MobID": 3643,
+            "MobDropID": 369
+        },
+        "10039": {
+            "MobID": 3652,
+            "MobDropID": 191
+        },
+        "10040": {
+            "MobID": 3676,
+            "MobDropID": 44
+        },
+        "10041": {
+            "MobID": 3677,
+            "MobDropID": 357
+        },
+        "10042": {
+            "MobID": 3679,
+            "MobDropID": 707
+        },
+        "10043": {
+            "MobID": 3747,
+            "MobDropID": 20
+        },
+        "10044": {
+            "MobID": 3748,
+            "MobDropID": 76
+        }
+    }
+}
