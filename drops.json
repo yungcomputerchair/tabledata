@@ -6742,6 +6742,22 @@
         "582": {
             "MobID": 2101,
             "MobDropID": 111
+        },
+        "583": {
+            "MobID": 2467,
+            "MobDropID": 143
+        },
+        "584": {
+            "MobID": 2468,
+            "MobDropID": 143
+        },
+        "585": {
+            "MobID": 2469,
+            "MobDropID": 143
+        },
+        "586": {
+            "MobID": 2470,
+            "MobDropID": 143
         }
     },
     "RarityWeights": {
