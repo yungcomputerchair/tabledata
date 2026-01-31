@@ -116,397 +116,304 @@
     },
     "MiscDropTypes": {
         "10000": {
-            "MiscDropTypeID": 123,
+            "MiscDropTypeID": 149,
             "PotionAmount": 0,
             "BoostAmount": 0,
             "TaroAmount": 5,
             "FMAmount": 0
         },
         "10001": {
-            "MiscDropTypeID": 124,
+            "MiscDropTypeID": 150,
             "PotionAmount": 0,
             "BoostAmount": 0,
             "TaroAmount": 100,
             "FMAmount": 0
-        },
-        "10002": {
-            "MiscDropTypeID": 125,
-            "PotionAmount": 17,
-            "BoostAmount": 17,
-            "TaroAmount": 37,
-            "FMAmount": 0
-        },
-        "10003": {
-            "MiscDropTypeID": 126,
-            "PotionAmount": 22,
-            "BoostAmount": 22,
-            "TaroAmount": 48,
-            "FMAmount": 0
-        },
-        "10004": {
-            "MiscDropTypeID": 127,
-            "PotionAmount": 23,
-            "BoostAmount": 23,
-            "TaroAmount": 120,
-            "FMAmount": 0
-        },
-        "10005": {
-            "MiscDropTypeID": 128,
-            "PotionAmount": 10,
-            "BoostAmount": 10,
-            "TaroAmount": 48,
-            "FMAmount": 16
-        },
-        "10006": {
-            "MiscDropTypeID": 129,
-            "PotionAmount": 0,
-            "BoostAmount": 0,
-            "TaroAmount": 46,
-            "FMAmount": 0
-        },
-        "10007": {
-            "MiscDropTypeID": 130,
-            "PotionAmount": 0,
-            "BoostAmount": 0,
-            "TaroAmount": 27,
-            "FMAmount": 45
-        },
-        "10008": {
-            "MiscDropTypeID": 131,
-            "PotionAmount": 0,
-            "BoostAmount": 0,
-            "TaroAmount": 7,
-            "FMAmount": 0
         }
     },
     "MobDrops": {
-        "353": {
-            "!CrateDropChanceID": 0,
-            "!CrateDropTypeID": 104,
-            "!MiscDropChanceID": 0,
-            "!MiscDropTypeID": 126
+        "10150": {
+            "MobDropID": 150,
+            "CrateDropChanceID": 0,
+            "CrateDropTypeID": 3,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 16
         },
-        "354": {
-            "!CrateDropChanceID": 0,
-            "!CrateDropTypeID": 104,
-            "!MiscDropChanceID": 0,
-            "!MiscDropTypeID": 127
-        },
-        "355": {
-            "!CrateDropChanceID": 0,
-            "!CrateDropTypeID": 105,
-            "!MiscDropChanceID": 0,
-            "!MiscDropTypeID": 128
-        },
-        "10000": {
-            "MobDropID": 725,
+        "10262": {
+            "MobDropID": 262,
             "CrateDropChanceID": 1,
             "CrateDropTypeID": 92,
             "MiscDropChanceID": 0,
-            "MiscDropTypeID": 117
+            "MiscDropTypeID": 27
         },
-        "10001": {
-            "MobDropID": 726,
-            "CrateDropChanceID": 1,
-            "CrateDropTypeID": 93,
-            "MiscDropChanceID": 0,
-            "MiscDropTypeID": 117
-        },
-        "10002": {
-            "MobDropID": 723,
-            "CrateDropChanceID": 1,
-            "CrateDropTypeID": 99,
-            "MiscDropChanceID": 0,
-            "MiscDropTypeID": 117
-        },
-        "10003": {
-            "MobDropID": 724,
-            "CrateDropChanceID": 2,
-            "CrateDropTypeID": 100,
-            "MiscDropChanceID": 0,
-            "MiscDropTypeID": 123
-        },
-        "10004": {
-            "MobDropID": 727,
-            "CrateDropChanceID": 1,
-            "CrateDropTypeID": 101,
-            "MiscDropChanceID": 0,
-            "MiscDropTypeID": 124
-        },
-        "10005": {
-            "MobDropID": 728,
-            "CrateDropChanceID": 1,
-            "CrateDropTypeID": 102,
-            "MiscDropChanceID": 0,
-            "MiscDropTypeID": 124
-        },
-        "10006": {
-            "MobDropID": 710,
+        "10282": {
+            "MobDropID": 282,
             "CrateDropChanceID": 0,
             "CrateDropTypeID": 103,
             "MiscDropChanceID": 0,
-            "MiscDropTypeID": 125
+            "MiscDropTypeID": 29
         },
-        "10007": {
-            "MobDropID": 732,
+        "10342": {
+            "MobDropID": 342,
+            "CrateDropChanceID": 1,
+            "CrateDropTypeID": 93,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 35
+        },
+        "10602": {
+            "MobDropID": 602,
+            "CrateDropChanceID": 0,
+            "CrateDropTypeID": 70,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 61
+        },
+        "10643": {
+            "MobDropID": 643,
+            "CrateDropChanceID": 0,
+            "CrateDropTypeID": 104,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 65
+        },
+        "10644": {
+            "MobDropID": 644,
+            "CrateDropChanceID": 0,
+            "CrateDropTypeID": 105,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 65
+        },
+        "10645": {
+            "MobDropID": 645,
             "CrateDropChanceID": 1,
             "CrateDropTypeID": 106,
             "MiscDropChanceID": 0,
-            "MiscDropTypeID": 129
+            "MiscDropTypeID": 65
         },
-        "10008": {
-            "MobDropID": 721,
-            "CrateDropChanceID": 1,
-            "CrateDropTypeID": 107,
+        "10663": {
+            "MobDropID": 663,
+            "CrateDropChanceID": 0,
+            "CrateDropTypeID": 104,
             "MiscDropChanceID": 0,
-            "MiscDropTypeID": 130
+            "MiscDropTypeID": 67
         },
-        "10009": {
-            "MobDropID": 722,
-            "CrateDropChanceID": 1,
-            "CrateDropTypeID": 108,
+        "10664": {
+            "MobDropID": 664,
+            "CrateDropChanceID": 0,
+            "CrateDropTypeID": 105,
             "MiscDropChanceID": 0,
-            "MiscDropTypeID": 131
+            "MiscDropTypeID": 67
         },
-        "10010": {
-            "MobDropID": 733,
+        "11449": {
+            "MobDropID": 1449,
+            "CrateDropChanceID": 1,
+            "CrateDropTypeID": 99,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 0
+        },
+        "11450": {
+            "MobDropID": 1450,
+            "CrateDropChanceID": 1,
+            "CrateDropTypeID": 101,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 150
+        },
+        "11451": {
+            "MobDropID": 1451,
+            "CrateDropChanceID": 1,
+            "CrateDropTypeID": 102,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 150
+        },
+        "11452": {
+            "MobDropID": 1452,
+            "CrateDropChanceID": 2,
+            "CrateDropTypeID": 100,
+            "MiscDropChanceID": 0,
+            "MiscDropTypeID": 149
+        },
+        "11453": {
+            "MobDropID": 1453,
             "CrateDropChanceID": 3,
             "CrateDropTypeID": 109,
             "MiscDropChanceID": 1,
-            "MiscDropTypeID": 117
+            "MiscDropTypeID": 0
         },
-        "10011": {
-            "MobDropID": 734,
+        "11454": {
+            "MobDropID": 1454,
             "CrateDropChanceID": 3,
             "CrateDropTypeID": 110,
             "MiscDropChanceID": 1,
-            "MiscDropTypeID": 117
+            "MiscDropTypeID": 0
         },
-        "10012": {
-            "MobDropID": 735,
+        "11455": {
+            "MobDropID": 1455,
             "CrateDropChanceID": 3,
             "CrateDropTypeID": 111,
             "MiscDropChanceID": 1,
-            "MiscDropTypeID": 117
+            "MiscDropTypeID": 0
         }
     },
     "Events": {
         "0": {
-            "!MobDropID": 733
+            "!MobDropID": 1453
         },
         "1": {
-            "!MobDropID": 734
+            "!MobDropID": 1454
         },
         "2": {
-            "!MobDropID": 735
+            "!MobDropID": 1455
         }
     },
     "Mobs": {
-        "0": {
-            "!MobDropID": 40
-        },
-        "6": {
-            "!MobDropID": 15
-        },
-        "16": {
-            "!MobDropID": 24
-        },
-        "37": {
-            "!MobDropID": 76
-        },
-        "43": {
-            "!MobDropID": 724
-        },
-        "44": {
-            "!MobDropID": 17
-        },
-        "50": {
-            "!MobDropID": 186
-        },
-        "54": {
-            "!MobID": 79
-        },
-        "56": {
-            "!MobDropID": 724
-        },
-        "133": {
-            "!MobID": 253
-        },
-        "143": {
-            "!MobDropID": 14
-        },
-        "241": {
-            "!MobDropID": 723
-        },
-        "243": {
-            "!MobDropID": 19
-        },
-        "249": {
-            "!MobDropID": 725
-        },
-        "254": {
-            "!MobDropID": 726
-        },
-        "377": {
-            "!MobDropID": 187
-        },
-        "518": {
-            "!MobDropID": 14
-        },
-        "519": {
-            "!MobDropID": 18
-        },
         "10000": {
             "MobID": 18,
-            "MobDropID": 209
+            "MobDropID": 550
+        },
+        "10001": {
+            "MobID": 357,
+            "MobDropID": 560
         },
         "10002": {
-            "MobID": 357,
-            "MobDropID": 58
+            "MobID": 387,
+            "MobDropID": 720
         },
         "10003": {
-            "MobID": 387,
-            "MobDropID": 74
+            "MobID": 3144,
+            "MobDropID": 472
+        },
+        "10004": {
+            "MobID": 3370,
+            "MobDropID": 440
+        },
+        "10005": {
+            "MobID": 3371,
+            "MobDropID": 600
         },
         "10006": {
-            "MobID": 3144,
-            "MobDropID": 345
+            "MobID": 3372,
+            "MobDropID": 760
         },
         "10007": {
-            "MobID": 3370,
-            "MobDropID": 46
+            "MobID": 3373,
+            "MobDropID": 570
         },
         "10008": {
-            "MobID": 3371,
-            "MobDropID": 62
+            "MobID": 3374,
+            "MobDropID": 560
         },
         "10009": {
-            "MobID": 3372,
-            "MobDropID": 78
+            "MobID": 3375,
+            "MobDropID": 440
         },
         "10010": {
-            "MobID": 3373,
-            "MobDropID": 58
+            "MobID": 3376,
+            "MobDropID": 600
         },
         "10011": {
-            "MobID": 3374,
-            "MobDropID": 59
+            "MobID": 3377,
+            "MobDropID": 760
         },
         "10012": {
-            "MobID": 3375,
-            "MobDropID": 46
+            "MobID": 3402,
+            "MobDropID": 643
         },
         "10013": {
-            "MobID": 3376,
-            "MobDropID": 62
+            "MobID": 3403,
+            "MobDropID": 663
         },
         "10014": {
-            "MobID": 3377,
-            "MobDropID": 78
+            "MobID": 3432,
+            "MobDropID": 644
         },
         "10015": {
-            "MobID": 3402,
-            "MobDropID": 706
+            "MobID": 3433,
+            "MobDropID": 644
         },
         "10016": {
-            "MobID": 3403,
-            "MobDropID": 707
+            "MobID": 3434,
+            "MobDropID": 664
         },
         "10017": {
-            "MobID": 3432,
-            "MobDropID": 708
+            "MobID": 3435,
+            "MobDropID": 644
         },
         "10018": {
-            "MobID": 3433,
-            "MobDropID": 708
+            "MobID": 3498,
+            "MobDropID": 282
         },
         "10019": {
-            "MobID": 3434,
-            "MobDropID": 708
+            "MobID": 3540,
+            "MobDropID": 442
         },
         "10020": {
-            "MobID": 3435,
-            "MobDropID": 708
+            "MobID": 3541,
+            "MobDropID": 462
         },
         "10021": {
-            "MobID": 3498,
-            "MobDropID": 710
+            "MobID": 3543,
+            "MobDropID": 462
         },
         "10022": {
-            "MobID": 3540,
-            "MobDropID": 343
+            "MobID": 3589,
+            "MobDropID": 1452
         },
         "10023": {
-            "MobID": 3541,
-            "MobDropID": 344
+            "MobID": 3590,
+            "MobDropID": 1452
         },
         "10024": {
-            "MobID": 3543,
-            "MobDropID": 344
+            "MobID": 3596,
+            "MobDropID": 1452
         },
         "10025": {
-            "MobID": 3589,
-            "MobDropID": 724
+            "MobID": 3597,
+            "MobDropID": 1450
         },
         "10026": {
-            "MobID": 3590,
-            "MobDropID": 724
+            "MobID": 3598,
+            "MobDropID": 1451
         },
         "10027": {
-            "MobID": 3596,
-            "MobDropID": 724
+            "MobID": 3618,
+            "MobDropID": 280
         },
         "10028": {
-            "MobID": 3597,
-            "MobDropID": 727
+            "MobID": 3620,
+            "MobDropID": 602
         },
         "10029": {
-            "MobID": 3598,
-            "MobDropID": 728
+            "MobID": 3621,
+            "MobDropID": 120
         },
         "10030": {
-            "MobID": 3618,
-            "MobDropID": 30
+            "MobID": 3622,
+            "MobDropID": 1452
         },
         "10031": {
-            "MobID": 3620,
-            "MobDropID": 355
+            "MobID": 3629,
+            "MobDropID": 200
         },
         "10032": {
-            "MobID": 3621,
-            "MobDropID": 14
+            "MobID": 3749,
+            "MobDropID": 645
         },
         "10033": {
-            "MobID": 3622,
-            "MobDropID": 724
+            "MobID": 3760,
+            "MobDropID": 663
         },
         "10034": {
-            "MobID": 3629,
-            "MobDropID": 22
-        },
-        "10045": {
-            "MobID": 3749,
-            "MobDropID": 732
-        },
-        "10046": {
-            "MobID": 3760,
-            "MobDropID": 707
-        },
-        "10047": {
             "MobID": 3763,
-            "MobDropID": 26
+            "MobDropID": 240
         },
-        "10048": {
+        "10035": {
             "MobID": 3764,
-            "MobDropID": 30
+            "MobDropID": 280
         },
-        "10049": {
+        "10036": {
             "MobID": 3769,
-            "MobDropID": 78
+            "MobDropID": 760
         },
-        "10050": {
+        "10037": {
             "MobID": 3619,
-            "MobDropID": 188
+            "MobDropID": 341
         }
     },
     "RarityWeights": {
