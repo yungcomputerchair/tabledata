@@ -180,6 +180,24 @@
         }
     },
     "MobDrops": {
+        "353": {
+            "!CrateDropChanceID": 0,
+            "!CrateDropTypeID": 104,
+            "!MiscDropChanceID": 0,
+            "!MiscDropTypeID": 126
+        },
+        "354": {
+            "!CrateDropChanceID": 0,
+            "!CrateDropTypeID": 104,
+            "!MiscDropChanceID": 0,
+            "!MiscDropTypeID": 127
+        },
+        "355": {
+            "!CrateDropChanceID": 0,
+            "!CrateDropTypeID": 105,
+            "!MiscDropChanceID": 0,
+            "!MiscDropTypeID": 128
+        },
         "10000": {
             "MobDropID": 725,
             "CrateDropChanceID": 1,
@@ -228,24 +246,6 @@
             "CrateDropTypeID": 103,
             "MiscDropChanceID": 0,
             "MiscDropTypeID": 125
-        },
-        "353": {
-            "!CrateDropChanceID": 0,
-            "!CrateDropTypeID": 104,
-            "!MiscDropChanceID": 0,
-            "!MiscDropTypeID": 126
-        },
-        "354": {
-            "!CrateDropChanceID": 0,
-            "!CrateDropTypeID": 104,
-            "!MiscDropChanceID": 0,
-            "!MiscDropTypeID": 127
-        },
-        "355": {
-            "!CrateDropChanceID": 0,
-            "!CrateDropTypeID": 105,
-            "!MiscDropChanceID": 0,
-            "!MiscDropTypeID": 128
         },
         "10007": {
             "MobDropID": 732,
@@ -305,24 +305,11 @@
         "0": {
             "!MobDropID": 40
         },
-        "2": {
-            "!MobDropID": 32
-        },
         "6": {
-            "!MobDropID": 16
-        },
-        "10000": {
-            "MobID": 18,
-            "MobDropID": 209
+            "!MobDropID": 15
         },
         "16": {
             "!MobDropID": 24
-        },
-        "18": {
-            "!MobDropID": 88
-        },
-        "25": {
-            "!MobDropID": 373
         },
         "37": {
             "!MobDropID": 76
@@ -336,32 +323,20 @@
         "50": {
             "!MobDropID": 186
         },
+        "54": {
+            "!MobID": 79
+        },
         "56": {
             "!MobDropID": 724
         },
-        "10001": {
-            "MobID": 173,
-            "MobDropID": 222
-        },
         "133": {
-            "!MobDropID": 18
+            "!MobID": 253
         },
         "143": {
             "!MobDropID": 14
         },
-        "10002": {
-            "MobID": 357,
-            "MobDropID": 58
-        },
-        "10003": {
-            "MobID": 387,
-            "MobDropID": 74
-        },
         "241": {
             "!MobDropID": 723
-        },
-        "242": {
-            "!MobDropID": 19
         },
         "243": {
             "!MobDropID": 19
@@ -372,19 +347,8 @@
         "254": {
             "!MobDropID": 726
         },
-        "10004": {
-            "MobID": 469,
-            "MobDropID": 15
-        },
-        "10005": {
-            "MobID": 522,
-            "MobDropID": 344
-        },
         "377": {
             "!MobDropID": 187
-        },
-        "378": {
-            "!MobDropID": 32
         },
         "518": {
             "!MobDropID": 14
@@ -392,27 +356,21 @@
         "519": {
             "!MobDropID": 18
         },
-        "525": {
-            "!MobDropID": 144
+        "10000": {
+            "MobID": 18,
+            "MobDropID": 209
         },
-        "526": {
-            "!MobDropID": 144
+        "10002": {
+            "MobID": 357,
+            "MobDropID": 58
         },
-        "527": {
-            "!MobDropID": 144
-        },
-        "528": {
-            "!MobDropID": 104
-        },
-        "530": {
-            "!MobDropID": 140
+        "10003": {
+            "MobID": 387,
+            "MobDropID": 74
         },
         "10006": {
             "MobID": 3144,
             "MobDropID": 345
-        },
-        "533": {
-            "!MobDropID": 132
         },
         "10007": {
             "MobID": 3370,
@@ -432,7 +390,7 @@
         },
         "10011": {
             "MobID": 3374,
-            "MobDropID": 58
+            "MobDropID": 59
         },
         "10012": {
             "MobID": 3375,
@@ -464,7 +422,7 @@
         },
         "10019": {
             "MobID": 3434,
-            "MobDropID": 709
+            "MobDropID": 708
         },
         "10020": {
             "MobID": 3435,
@@ -512,7 +470,7 @@
         },
         "10031": {
             "MobID": 3620,
-            "MobDropID": 62
+            "MobDropID": 355
         },
         "10032": {
             "MobID": 3621,
@@ -525,46 +483,6 @@
         "10034": {
             "MobID": 3629,
             "MobDropID": 22
-        },
-        "10035": {
-            "MobID": 3639,
-            "MobDropID": 0
-        },
-        "10036": {
-            "MobID": 3640,
-            "MobDropID": 0
-        },
-        "10037": {
-            "MobID": 3641,
-            "MobDropID": 40
-        },
-        "10038": {
-            "MobID": 3643,
-            "MobDropID": 72
-        },
-        "10039": {
-            "MobID": 3652,
-            "MobDropID": 0
-        },
-        "10040": {
-            "MobID": 3676,
-            "MobDropID": 0
-        },
-        "10041": {
-            "MobID": 3677,
-            "MobDropID": 0
-        },
-        "10042": {
-            "MobID": 3679,
-            "MobDropID": 0
-        },
-        "10043": {
-            "MobID": 3747,
-            "MobDropID": 0
-        },
-        "10044": {
-            "MobID": 3748,
-            "MobDropID": 0
         },
         "10045": {
             "MobID": 3749,
@@ -585,6 +503,10 @@
         "10049": {
             "MobID": 3769,
             "MobDropID": 78
+        },
+        "10050": {
+            "MobID": 3619,
+            "MobDropID": 188
         }
     },
     "RarityWeights": {
@@ -600,25 +522,25 @@
     },
     "ItemSets": {
         "1": {
-            "!AlterRarityMap": {
+            "AlterRarityMap": {
                 "7": 1,
                 "161": 1,
                 "162": 1
             }
         },
         "4": {
-            "!AlterRarityMap": {
+            "AlterRarityMap": {
                 "235": 1
             }
         },
         "93": {
-            "!AlterRarityMap": {
+            "AlterRarityMap": {
                 "161": 1,
                 "162": 1
             }
         },
         "94": {
-            "!AlterRarityMap": {
+            "AlterRarityMap": {
                 "161": 1,
                 "162": 1
             }
@@ -639,12 +561,12 @@
             ]
         },
         "206": {
-            "!AlterRarityMap": {
+            "AlterRarityMap": {
                 "7": 1
             }
         },
         "273": {
-            "!AlterRarityMap": {
+            "AlterRarityMap": {
                 "161": 1
             },
             "!ItemReferenceIDs": [
@@ -652,7 +574,8 @@
             ]
         },
         "274": {
-            "!AlterRarityMap": {
+            "AlterRarityMap": {
+                "2006": null,
                 "167": 1
             },
             "!ItemReferenceIDs": [
@@ -660,7 +583,7 @@
             ]
         },
         "275": {
-            "!AlterRarityMap": {
+            "AlterRarityMap": {
                 "4": 1
             },
             "!ItemReferenceIDs": [
@@ -733,7 +656,7 @@
             ]
         },
         "281": {
-            "!AlterRarityMap": {
+            "AlterRarityMap": {
                 "2040": 3
             },
             "!ItemReferenceIDs": [
@@ -771,7 +694,7 @@
             ]
         },
         "284": {
-            "!AlterRarityMap": {
+            "AlterRarityMap": {
                 "2061": 3,
                 "2062": 3,
                 "2063": 3,
@@ -3114,6 +3037,9 @@
         "675": {
             "!ItemSetID": 335
         },
+        "835": {
+            "!RarityWeightID": 1
+        },
         "10000": {
             "CrateID": 1237,
             "ItemSetID": 200,
@@ -3123,9 +3049,6 @@
             "CrateID": 1238,
             "ItemSetID": 201,
             "RarityWeightID": 6
-        },
-        "835": {
-            "!RarityWeightID": 1
         },
         "10002": {
             "CrateID": 1230,
