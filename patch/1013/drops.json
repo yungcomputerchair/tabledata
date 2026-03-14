@@ -5141,6 +5141,11 @@
             "ItemReferenceID": 2231,
             "ItemID": 38,
             "Type": 10
+        },
+        "10221": {
+            "ItemReferenceID": 2232,
+            "ItemID": 1187,
+            "Type": 9
         }
     },
     "NanoCapsules": {
@@ -5665,19 +5670,22 @@
         "80": {
             "Code": "ffcthekingofcool",
             "ItemReferenceIDs": [
-                2140
+                2140,
+                2232
             ]
         },
         "81": {
             "Code": "ffcstealthyninja",
             "ItemReferenceIDs": [
-                2141
+                2141,
+                2232
             ]
         },
         "82": {
             "Code": "ffcrevtheengines",
             "ItemReferenceIDs": [
-                2142
+                2142,
+                2232
             ]
         },
         "83": {
@@ -5699,7 +5707,8 @@
         "85": {
             "Code": "ffchighflyingfun",
             "ItemReferenceIDs": [
-                2149
+                2149,
+                2232
             ]
         },
         "86": {
@@ -5712,13 +5721,15 @@
         "87": {
             "Code": "ffchalfkaijuking",
             "ItemReferenceIDs": [
-                2151
+                2151,
+                2232
             ]
         },
         "88": {
             "Code": "ffcultimatemagik",
             "ItemReferenceIDs": [
-                2152
+                2152,
+                2232
             ]
         },
         "89": {
