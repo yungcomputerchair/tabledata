@@ -5131,6 +5131,16 @@
             "ItemReferenceID": 2229,
             "ItemID": 67,
             "Type": 6
+        },
+        "10219": {
+            "ItemReferenceID": 2230,
+            "ItemID": 80,
+            "Type": 6
+        },
+        "10220": {
+            "ItemReferenceID": 2231,
+            "ItemID": 38,
+            "Type": 10
         }
     },
     "NanoCapsules": {
@@ -5745,7 +5755,9 @@
                 2166,
                 2167,
                 2168,
-                2169
+                2169,
+                2230,
+                2231
             ]
         },
         "93": {
