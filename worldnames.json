@@ -1,0 +1,944 @@
+{
+    "m_pWorldNameData": {
+        "0": {
+            "Area": {
+                "x": 0.0,
+                "y": 0.0,
+                "width": 0.0,
+                "height": 0.0
+            },
+            "DongName": "",
+            "ZoneName": ""
+        },
+        "1": {
+            "Area": {
+                "x": 4096.0,
+                "y": 2560.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Candy Cove",
+            "ZoneName": "The Suburbs"
+        },
+        "2": {
+            "Area": {
+                "x": 1024.0,
+                "y": 1536.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Townsville Park",
+            "ZoneName": "Downtown"
+        },
+        "3": {
+            "Area": {
+                "x": 2560.0,
+                "y": 512.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Bravo Beach",
+            "ZoneName": "Downtown"
+        },
+        "4": {
+            "Area": {
+                "x": 1536.0,
+                "y": 1024.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Orchid Bay",
+            "ZoneName": "Downtown"
+        },
+        "5": {
+            "Area": {
+                "x": 1536.0,
+                "y": 512.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Orchid Bay",
+            "ZoneName": "Downtown"
+        },
+        "6": {
+            "Area": {
+                "x": 2048.0,
+                "y": 512.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Orchid Bay",
+            "ZoneName": "Downtown"
+        },
+        "7": {
+            "Area": {
+                "x": 1536.0,
+                "y": 1536.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Marquee Row",
+            "ZoneName": "Downtown"
+        },
+        "8": {
+            "Area": {
+                "x": 512.0,
+                "y": 6144.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Green Maw",
+            "ZoneName": "The Darklands"
+        },
+        "9": {
+            "Area": {
+                "x": 512.0,
+                "y": 5632.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Green Maw",
+            "ZoneName": "The Darklands"
+        },
+        "10": {
+            "Area": {
+                "x": 1024.0,
+                "y": 5632.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Green Maw",
+            "ZoneName": "The Darklands"
+        },
+        "11": {
+            "Area": {
+                "x": 3072.0,
+                "y": 4608.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Forsaken Valley",
+            "ZoneName": "The Darklands"
+        },
+        "12": {
+            "Area": {
+                "x": 3584.0,
+                "y": 4608.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Forsaken Valley",
+            "ZoneName": "The Darklands"
+        },
+        "13": {
+            "Area": {
+                "x": 3584.0,
+                "y": 5120.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Forsaken Valley",
+            "ZoneName": "The Darklands"
+        },
+        "14": {
+            "Area": {
+                "x": 2560.0,
+                "y": 4608.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Dinosaur Pass",
+            "ZoneName": "The Darklands"
+        },
+        "15": {
+            "Area": {
+                "x": 6144.0,
+                "y": 4096.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Nowhere",
+            "ZoneName": "The Wilds"
+        },
+        "16": {
+            "Area": {
+                "x": 6656.0,
+                "y": 4096.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Nowhere",
+            "ZoneName": "The Wilds"
+        },
+        "17": {
+            "Area": {
+                "x": 6656.0,
+                "y": 5120.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Area 51.5",
+            "ZoneName": "The Wilds"
+        },
+        "18": {
+            "Area": {
+                "x": 6656.0,
+                "y": 4608.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Nowhere",
+            "ZoneName": "The Wilds"
+        },
+        "19": {
+            "Area": {
+                "x": 4096.0,
+                "y": 7168.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Monkey Mountain",
+            "ZoneName": "The Wilds"
+        },
+        "20": {
+            "Area": {
+                "x": 4608.0,
+                "y": 7168.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Monkey Foothills",
+            "ZoneName": "The Wilds"
+        },
+        "21": {
+            "Area": {
+                "x": 5120.0,
+                "y": 7168.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Monkey Foothills",
+            "ZoneName": "The Wilds"
+        },
+        "22": {
+            "Area": {
+                "x": 5120.0,
+                "y": 6656.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Monkey Foothills",
+            "ZoneName": "The Wilds"
+        },
+        "23": {
+            "Area": {
+                "x": 2048.0,
+                "y": 2560.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "City Point",
+            "ZoneName": "Downtown"
+        },
+        "24": {
+            "Area": {
+                "x": 2560.0,
+                "y": 2560.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Galaxy Gardens",
+            "ZoneName": "Downtown"
+        },
+        "25": {
+            "Area": {
+                "x": 2048.0,
+                "y": 1536.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Marquee Row",
+            "ZoneName": "Downtown"
+        },
+        "26": {
+            "Area": {
+                "x": 2560.0,
+                "y": 1024.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Bravo Beach",
+            "ZoneName": "Downtown"
+        },
+        "27": {
+            "Area": {
+                "x": 2048.0,
+                "y": 3072.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Endsville",
+            "ZoneName": "The Suburbs"
+        },
+        "28": {
+            "Area": {
+                "x": 4608.0,
+                "y": 4608.0,
+                "width": 382.0,
+                "height": 85.0
+            },
+            "DongName": "Prickly Pines",
+            "ZoneName": "The Wilds"
+        },
+        "29": {
+            "Area": {
+                "x": 4608.0,
+                "y": 4690.0,
+                "width": 338.0,
+                "height": 201.0
+            },
+            "DongName": "Prickly Pines",
+            "ZoneName": "The Wilds"
+        },
+        "30": {
+            "Area": {
+                "x": 4608.0,
+                "y": 4890.0,
+                "width": 310.0,
+                "height": 741.0
+            },
+            "DongName": "Prickly Pines",
+            "ZoneName": "The Wilds"
+        },
+        "31": {
+            "Area": {
+                "x": 4991.0,
+                "y": 4608.0,
+                "width": 129.0,
+                "height": 85.0
+            },
+            "DongName": "Camp Kidney",
+            "ZoneName": "The Wilds"
+        },
+        "32": {
+            "Area": {
+                "x": 4947.0,
+                "y": 4690.0,
+                "width": 173.0,
+                "height": 201.0
+            },
+            "DongName": "Camp Kidney",
+            "ZoneName": "The Wilds"
+        },
+        "33": {
+            "Area": {
+                "x": 4919.0,
+                "y": 4890.0,
+                "width": 201.0,
+                "height": 741.0
+            },
+            "DongName": "Camp Kidney",
+            "ZoneName": "The Wilds"
+        },
+        "34": {
+            "Area": {
+                "x": 7680.0,
+                "y": 5632.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Lower Catacombs",
+            "ZoneName": "The Wilds"
+        },
+        "35": {
+            "Area": {
+                "x": 7680.0,
+                "y": 5120.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Upper Catacombs",
+            "ZoneName": "The Wilds"
+        },
+        "36": {
+            "Area": {
+                "x": 2560.0,
+                "y": 5120.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Dinosaur Pass",
+            "ZoneName": "The Darklands"
+        },
+        "37": {
+            "Area": {
+                "x": 1536.0,
+                "y": 3072.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Habitat Homes",
+            "ZoneName": "The Suburbs"
+        },
+        "38": {
+            "Area": {
+                "x": 1536.0,
+                "y": 2560.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "City Hall",
+            "ZoneName": "Downtown"
+        },
+        "39": {
+            "Area": {
+                "x": 2048.0,
+                "y": 2048.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "City Station",
+            "ZoneName": "Downtown"
+        },
+        "40": {
+            "Area": {
+                "x": 2560.0,
+                "y": 1536.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Morbucks Towers",
+            "ZoneName": "Downtown"
+        },
+        "41": {
+            "Area": {
+                "x": 4096.0,
+                "y": 3584.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Peach Creek Commons",
+            "ZoneName": "The Suburbs"
+        },
+        "42": {
+            "Area": {
+                "x": 4096.0,
+                "y": 3072.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Candy Cove",
+            "ZoneName": "The Suburbs"
+        },
+        "43": {
+            "Area": {
+                "x": 3072.0,
+                "y": 2048.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Steam Alley",
+            "ZoneName": "Downtown"
+        },
+        "44": {
+            "Area": {
+                "x": 2048.0,
+                "y": 6656.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Dark Glade",
+            "ZoneName": "The Darklands"
+        },
+        "45": {
+            "Area": {
+                "x": 5632.0,
+                "y": 5120.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Devil's Bluff",
+            "ZoneName": "The Wilds"
+        },
+        "46": {
+            "Area": {
+                "x": 5632.0,
+                "y": 4608.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Devil's Canyon",
+            "ZoneName": "The Wilds"
+        },
+        "47": {
+            "Area": {
+                "x": 3072.0,
+                "y": 3072.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Genius Grove",
+            "ZoneName": "The Suburbs"
+        },
+        "48": {
+            "Area": {
+                "x": 3072.0,
+                "y": 5120.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Forsaken Valley",
+            "ZoneName": "The Darklands"
+        },
+        "49": {
+            "Area": {
+                "x": 2048.0,
+                "y": 6144.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Huntor's Crest",
+            "ZoneName": "The Darklands"
+        },
+        "50": {
+            "Area": {
+                "x": 1024.0,
+                "y": 2048.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Townsville Park",
+            "ZoneName": "Downtown"
+        },
+        "51": {
+            "Area": {
+                "x": 4608.0,
+                "y": 4096.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Foster's Home",
+            "ZoneName": "The Suburbs"
+        },
+        "52": {
+            "Area": {
+                "x": 1024.0,
+                "y": 6144.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Green Maw",
+            "ZoneName": "The Darklands"
+        },
+        "53": {
+            "Area": {
+                "x": 1536.0,
+                "y": 6144.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Hero's Hollow",
+            "ZoneName": "The Darklands"
+        },
+        "54": {
+            "Area": {
+                "x": 1024.0,
+                "y": 6656.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Fuse's Lair",
+            "ZoneName": "The Darklands"
+        },
+        "55": {
+            "Area": {
+                "x": 1536.0,
+                "y": 6656.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "The Precipice",
+            "ZoneName": "The Darklands"
+        },
+        "56": {
+            "Area": {
+                "x": 4608.0,
+                "y": 6144.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Forgotten Falls",
+            "ZoneName": "The Wilds"
+        },
+        "57": {
+            "Area": {
+                "x": 2560.0,
+                "y": 3072.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Eternal Vistas",
+            "ZoneName": "The Suburbs"
+        },
+        "58": {
+            "Area": {
+                "x": 2560.0,
+                "y": 3584.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Eternal Meadows",
+            "ZoneName": "The Suburbs"
+        },
+        "59": {
+            "Area": {
+                "x": 5632.0,
+                "y": 4096.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Pimpleback Mountains",
+            "ZoneName": "The Wilds"
+        },
+        "60": {
+            "Area": {
+                "x": 5632.0,
+                "y": 3584.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Haunted Ridge",
+            "ZoneName": "The Wilds"
+        },
+        "61": {
+            "Area": {
+                "x": 4608.0,
+                "y": 3584.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Peach Creek Estates",
+            "ZoneName": "The Suburbs"
+        },
+        "62": {
+            "Area": {
+                "x": 3584.0,
+                "y": 4096.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Sector V",
+            "ZoneName": "The Suburbs"
+        },
+        "63": {
+            "Area": {
+                "x": 5120.0,
+                "y": 4608.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Leakey Lake",
+            "ZoneName": "The Wilds"
+        },
+        "64": {
+            "Area": {
+                "x": 5120.0,
+                "y": 4096.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Acorn Flats",
+            "ZoneName": "The Wilds"
+        },
+        "65": {
+            "Area": {
+                "x": 2560.0,
+                "y": 2048.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Mojo's Volcano",
+            "ZoneName": "Downtown"
+        },
+        "66": {
+            "Area": {
+                "x": 4096.0,
+                "y": 6656.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Monkey Mountain",
+            "ZoneName": "The Wilds"
+        },
+        "67": {
+            "Area": {
+                "x": 4608.0,
+                "y": 6656.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Monkey Foothills",
+            "ZoneName": "The Wilds"
+        },
+        "68": {
+            "Area": {
+                "x": 6144.0,
+                "y": 4608.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Nowhere",
+            "ZoneName": "The Wilds"
+        },
+        "69": {
+            "Area": {
+                "x": 6144.0,
+                "y": 5120.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Area 51.5",
+            "ZoneName": "The Wilds"
+        },
+        "70": {
+            "Area": {
+                "x": 2048.0,
+                "y": 3584.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Nuclear Plant",
+            "ZoneName": "The Suburbs"
+        },
+        "71": {
+            "Area": {
+                "x": 5632.0,
+                "y": 5632.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "The Ruins",
+            "ZoneName": "The Wilds"
+        },
+        "72": {
+            "Area": {
+                "x": 4608.0,
+                "y": 3072.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Goat's Junk Yard",
+            "ZoneName": "The Suburbs"
+        },
+        "73": {
+            "Area": {
+                "x": 3072.0,
+                "y": 1536.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Offworld Plaza",
+            "ZoneName": "Downtown"
+        },
+        "74": {
+            "Area": {
+                "x": 1536.0,
+                "y": 2048.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Townsville Center",
+            "ZoneName": "Downtown"
+        },
+        "75": {
+            "Area": {
+                "x": 2560.0,
+                "y": 6144.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Firepits",
+            "ZoneName": "The Darklands"
+        },
+        "76": {
+            "Area": {
+                "x": 2560.0,
+                "y": 5632.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Fireswamps",
+            "ZoneName": "The Darklands"
+        },
+        "77": {
+            "Area": {
+                "x": 3072.0,
+                "y": 2560.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Tech Square",
+            "ZoneName": "Downtown"
+        },
+        "78": {
+            "Area": {
+                "x": 3584.0,
+                "y": 3072.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Pokey Oaks South",
+            "ZoneName": "The Suburbs"
+        },
+        "79": {
+            "Area": {
+                "x": 3584.0,
+                "y": 3584.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Pokey Oaks North",
+            "ZoneName": "The Suburbs"
+        },
+        "80": {
+            "Area": {
+                "x": 5120.0,
+                "y": 5120.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Mount Blackhead",
+            "ZoneName": "The Wilds"
+        },
+        "81": {
+            "Area": {
+                "x": 4608.0,
+                "y": 5632.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Really Twisted Forest",
+            "ZoneName": "The Wilds"
+        },
+        "82": {
+            "Area": {
+                "x": 5120.0,
+                "y": 5632.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Twisted Forest",
+            "ZoneName": "The Wilds"
+        },
+        "83": {
+            "Area": {
+                "x": 2048.0,
+                "y": 1024.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Orchid Bay",
+            "ZoneName": "Downtown"
+        },
+        "84": {
+            "Area": {
+                "x": 7168.0,
+                "y": 3584.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Crystalline Caverns",
+            "ZoneName": "The Wilds"
+        },
+        "85": {
+            "Area": {
+                "x": 6656.0,
+                "y": 1024.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Peach Creek Commons",
+            "ZoneName": "The Future"
+        },
+        "86": {
+            "Area": {
+                "x": 6656.0,
+                "y": 512.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Candy Cove",
+            "ZoneName": "The Future"
+        },
+        "87": {
+            "Area": {
+                "x": 5632.0,
+                "y": 512.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Genius Grove",
+            "ZoneName": "The Future"
+        },
+        "88": {
+            "Area": {
+                "x": 7168.0,
+                "y": 1024.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Peach Creek Estates",
+            "ZoneName": "The Future"
+        },
+        "89": {
+            "Area": {
+                "x": 6144.0,
+                "y": 1536.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Sector V",
+            "ZoneName": "The Future"
+        },
+        "90": {
+            "Area": {
+                "x": 6144.0,
+                "y": 1024.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Pokey Oaks North",
+            "ZoneName": "The Future"
+        },
+        "91": {
+            "Area": {
+                "x": 6144.0,
+                "y": 512.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Pokey Oaks South",
+            "ZoneName": "The Future"
+        },
+        "92": {
+            "Area": {
+                "x": 7168.0,
+                "y": 512.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Goat's Junk Yard",
+            "ZoneName": "The Future"
+        },
+        "93": {
+            "Area": {
+                "x": 512.0,
+                "y": 512.0,
+                "width": 512.0,
+                "height": 512.0
+            },
+            "DongName": "Tech Square",
+            "ZoneName": "The Future"
+        }
+    }
+}
